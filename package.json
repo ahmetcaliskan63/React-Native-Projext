@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "proje1",
   "license": "0BSD",
   "version": "1.0.0",
   "main": "index.ts",
+=======
+  "name": "proje2",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+>>>>>>> 0424d8933f028505d966c7ca6abf17b7673a4b44
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -16,9 +23,13 @@
     "react-native": "0.76.3"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@babel/core": "^7.25.2",
     "@types/react": "~18.3.12",
     "typescript": "^5.3.3"
+=======
+    "@babel/core": "^7.20.0"
+>>>>>>> 0424d8933f028505d966c7ca6abf17b7673a4b44
   },
   "private": true
 }
